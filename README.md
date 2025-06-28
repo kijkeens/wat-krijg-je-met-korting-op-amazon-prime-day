@@ -37,7 +37,7 @@ Prime Day deals kunnen snel uitverkocht zijn. Stel herinneringen in voor het mom
 
 ### Gebruik Amazon Assistant
 
-Installeer de [Amazon Assistant browser-extensie](https://www.amazon.com/gp/BIT/toolbar/mechbia) om op de hoogte te blijven van Prime Day deals en meldingen.
+Installeer de Amazon Assistant browser-extensie om op de hoogte te blijven van Prime Day deals en meldingen.
 
 ### Vergelijk Prijzen
 
